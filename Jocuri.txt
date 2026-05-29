@@ -1,0 +1,3 @@
+Popescu Daniel;Matematica;Greu;
+Popescu Daniel;Matematica;Mediu;
+Ionescu Marian;Geografie;Mediu;
